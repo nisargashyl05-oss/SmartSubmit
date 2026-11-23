@@ -1,0 +1,6 @@
+REVIEW_ID|SUB_ID|ROLL_NO|ASSIGNMENT_ID|FACULTY|STATUS|GRADE|ACCEPTED_STATUS|REMARKS|REVIEW_DATE
+REV-1001|SUB-1001|CS2024-001|CS101-A1|Dr. Alan Turing|Cleared|A+|Accepted|Outstanding implementation and documentation.|2026-11-21 14:00:00
+REV-1002|SUB-1002|CS2024-002|CS101-A1|Dr. Alan Turing|Suspected|F|Resubmit Required|Identical SHA-256 hash match with CS2024-001. Requires disciplinary hearing.|2026-11-21 14:15:00
+REV-1003|SUB-1003|CS2024-003|CS101-A1|Dr. Alan Turing|Cleared|A|Accepted|Clean solution with efficient AWK pipeline.|2026-11-21 14:30:00
+REV-1004|SUB-1004|CS2024-004|CS101-A1|Prof. Grace Hopper|Needs Further Review|Pending|Resubmit Required|Uploaded empty 0-byte file. Student granted 24h grace period.|2026-11-21 15:00:00
+REV-1005|SUB-1006|CS2024-006|CS101-A1|Dr. Alan Turing|Cleared|B|Accepted|Late submission penalty applied (-10%). Good script.|2026-11-22 10:00:00

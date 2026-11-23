@@ -1,0 +1,24 @@
+================================================================================
+DUPLICATE ASSIGNMENT DETECTION AUDIT REPORT
+Generated At: 2026-11-23 22:20:53
+Filter:       .
+================================================================================
+
+--- Cluster #1 ---
+Assignment ID:    CS101-A1
+Colliding Hash:   020fcb567b707856cab3ae36b932ae280e333788ba26e135fbe75ec974108138
+Matching Records: 2
+SUB_ID     ROLL_NO         STUDENT_NAME              VERSION    TIMESTAMP            STATUS         
+---------- --------------- ------------------------- ---------- -------------------- ---------------
+SUB-1002   CS2024-002      Bob Smith                 v1         2026-11-16 11:15:00  Duplicate Suspected
+SUB-1010   CS2024-001      Alice Johnson             v2         2026-11-20 18:00:00  Submitted      
+
+--- Cluster #2 ---
+Assignment ID:    CS502-A3
+Colliding Hash:   ab9e2e7c4abe8e3ba15537362fbe25a217b12bfdd012f4552ed850e42c1858c8
+Matching Records: 2
+SUB_ID     ROLL_NO         STUDENT_NAME              VERSION    TIMESTAMP            STATUS         
+---------- --------------- ------------------------- ---------- -------------------- ---------------
+SUB-1008   CS2024-008      Henry Cavill              v1         2026-11-23 12:00:00  Submitted      
+SUB-1009   CS2024-009      Isabella Rossi            v1         2026-11-23 13:00:00  Duplicate Suspected
+

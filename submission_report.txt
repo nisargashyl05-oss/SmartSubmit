@@ -1,0 +1,35 @@
+=====================================================================================================
+ STUDENT ASSIGNMENT SUBMISSION & PLAGIARISM MONITORING SYSTEM
+ COMPREHENSIVE ACADEMIC EVALUATION REPORT
+ Generated On: 2026-11-23 22:19:40
+=====================================================================================================
+
+1. EXECUTIVE SUMMARY
+-----------------------------------------------------------------------------------------------------
+Total Registered Students              : 10
+Total Assignments Configured           : 3
+Total Recorded Submissions             : 10
+On-Time Submissions                    : 6
+Late Submissions                       : 1
+Missing / Not Submitted Assignments    : 20
+Unverified Submissions (Fake / Empty)  : 2
+Duplicate Suspected (SHA-256 Matches)  : 2
+Reviewed Submissions (Faculty Graded)  : 4
+Resubmission Required Submissions      : 2
+-----------------------------------------------------------------------------------------------------
+
+2. DETAILED SUBMISSION AND REVIEW AUDIT TABLE
+-----------------------------------------------------------------------------------------------------
+SUB_ID    | ROLL_NO      | STUDENT_NAME         | ASGN_ID    | VER  | SUBMITTED_TIME      | STATUS             | GRADE | FACULTY  | REMARKS             
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+SUB-1001 CS2024-001 CS101-A1 /c/Users/nisar/Downloads/unix/Student_Assignment_Management_System/uploads/submissions/CS101-A1_CS2024-001_v1_cs101_sample_alice.sh 2026-11-15 14:30:00 020fcb567b707856cab3ae36b932ae280e333788ba26e135fbe75ec974108138 v1 Reviewed NO |              | Unknown              |            |      |                     |                    | Pending | N/A      | None                
+SUB-1002  | CS2024-002   | Bob Smith            | CS101-A1   | v1   | 2026-11-16 11:15:00 | Duplicate Suspecte | F     | Dr. Alan | Identical SHA-256 ha
+SUB-1003  | CS2024-003   | Carol Danvers        | CS101-A1   | v1   | 2026-11-17 16:45:00 | Reviewed           | A     | Dr. Alan | Clean solution with 
+SUB-1004  | CS2024-004   | David Miller         | CS101-A1   | v1   | 2026-11-18 10:00:00 | Resubmit Required  | Pending | Prof. Gr | Uploaded empty 0-byt
+SUB-1005  | CS2024-005   | Emily Watson         | CS101-A1   | v1   | 2026-11-19 12:00:00 | Unverified         | Pending | N/A      | None                
+SUB-1006  | CS2024-006   | Frank Castle         | CS101-A1   | v1   | 2026-11-22 03:30:00 | Reviewed           | B     | Dr. Alan | Late submission pena
+SUB-1007  | CS2024-007   | Grace Hopper         | CS501-A2   | v1   | 2026-11-23 10:00:00 | Submitted          | Pending | N/A      | None                
+SUB-1008  | CS2024-008   | Henry Cavill         | CS502-A3   | v1   | 2026-11-23 12:00:00 | Submitted          | Pending | N/A      | None                
+SUB-1009  | CS2024-009   | Isabella Rossi       | CS502-A3   | v1   | 2026-11-23 13:00:00 | Duplicate Suspecte | Pending | N/A      | None                
+SUB-1010  | CS2024-001   | Alice Johnson        | CS101-A1   | v2   | 2026-11-20 18:00:00 | Submitted          | Pending | N/A      | None                
+--------------------------------------------------------------------------------------------------------------------------------------------------------
